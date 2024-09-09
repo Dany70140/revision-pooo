@@ -1,0 +1,17 @@
+{
+    "name": "iloaid/revision-pooo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "iloai"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
